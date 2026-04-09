@@ -1,1 +1,1 @@
-# python-port-scanner
+A Python port scanner built from scratch using the socket library. Scans the 20 most common ports and detects open services. Tested live on scanme.nmap.org — found port 22 (SSH) and port 80 (HTTP) open. Built as a hands-on exercise to understand how tools like Nmap work under the hood.
